@@ -1,6 +1,11 @@
 # Algorithms Examples
 Just messing around with algorithms
 
+## Sorting
+### Heapsort
+Usage:
+`$ node sorting/heapsort.js`
+
 ## Fibonacci (Dynamic Programming)
 Calculate fibonacci numbers using dynamic programming
 
