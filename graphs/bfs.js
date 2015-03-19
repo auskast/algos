@@ -1,4 +1,4 @@
-/*global module*/
+/*global module, require*/
 (function () {
     'use strict';
     var _ = require('underscore');
