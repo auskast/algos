@@ -17,3 +17,9 @@ A simulated annealing example for the traveling salesman problem
 
 Usage:
 `$ node simulated-annealing/main.js`
+
+## Graphs
+Some graph examples, including BFS and DFS
+
+Usage:
+`$ node graphs/main.js`
